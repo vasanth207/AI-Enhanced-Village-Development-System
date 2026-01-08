@@ -1,2 +1,3 @@
-# AI-Enhanced-Village-Development-System
-we are develop a village using AI 
+git remote add origin https://github.com/vasanth207/your-repo-name.git
+git branch -M main
+git push -u origin main

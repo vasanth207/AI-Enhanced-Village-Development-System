@@ -1,0 +1,10 @@
+
+{
+  "name": "GramUday",
+  "description": "An advanced AI-powered village development system featuring real-time voice assistance, infrastructure visualization, agricultural intelligence, and predictive resource management using the latest Gemini models.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}

@@ -1,57 +1,20 @@
-# AI-Enhanced Village Development System
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-## Overview
-AI-Enhanced Village Development System is a smart platform designed to improve rural development through Artificial Intelligence. The system provides solutions for agriculture, healthcare, education, governance, and resource management.
+# Run and deploy your AI Studio app
 
-## Features
-- Smart Agriculture Support
-- Healthcare Assistance
-- Educational Resource Management
-- Village Resource Monitoring
-- AI-Based Recommendations
-- User-Friendly Dashboard
+This contains everything you need to run your app locally.
 
-## Technologies Used
-- React
-- TypeScript
-- Vite
-- HTML
-- CSS
-- JavaScript
+View your app in AI Studio: https://ai.studio/apps/temp/1
 
-## Installation
+## Run Locally
 
-1. Clone the repository
+**Prerequisites:**  Node.js
 
-```bash
-git clone https://github.com/vasanth207/AI-Enhanced-Village-Development-System.git
-```
 
-2. Install dependencies
-
-```bash
-npm install
-```
-
-3. Run the application
-
-```bash
-npm run dev
-```
-
-## Project Structure
-
-- components/
-- services/
-- App.tsx
-- index.tsx
-
-## Future Enhancements
-- Mobile Application
-- IoT Integration
-- Real-Time Analytics
-- Government Service Integration
-
-## Author
-Vasantha Kumara N N
-Artificial Intelligence & Data Science Student
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

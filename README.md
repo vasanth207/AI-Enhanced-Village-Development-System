@@ -14,7 +14,7 @@ AI-Enhanced Village Development System is a smart platform designed to improve r
 - React
 - TypeScript
 - Vite
-- Google AI Studio
+- Python
 - HTML/CSS
 
 ## Installation
@@ -25,5 +25,5 @@ npm run dev
 ```
 
 ## Author
-Vasantha Kumara H N
+Vasantha Kumara N N
 BE - Artificial Intelligence & Data Science
